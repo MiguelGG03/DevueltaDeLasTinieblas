@@ -1,4 +1,4 @@
-from intertools import setup
+from setuptools import setup
 
 setup(
     name='paquete',
