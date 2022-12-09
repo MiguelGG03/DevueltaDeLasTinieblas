@@ -1,2 +1,3 @@
-from saludos import saludar
-saludar()
+from saludos import *
+
+Saludo("Gonzis").saludar()
